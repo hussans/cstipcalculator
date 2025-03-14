@@ -12,3 +12,9 @@
 <br/>
 <br/>
 **GitHub**: 
+## Peer Review: Robert G
+
+- There's a **blue focus bar** around the cyan color.
+- No **active state** for the button when being used.
+- (Optional) Would recommend preventing the user from **inputting negative numbers**.
+- The **reset button** disappears, then reappears when there is input.
