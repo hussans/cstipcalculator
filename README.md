@@ -11,7 +11,7 @@
 **Review**: 
 <br/>
 <br/>
-**GitHub**: 
+**GitHub**: https://github.com/hussans/cstipcalculator
 ## Peer Review: Robert G
 
 - There's a **blue focus bar** around the cyan color.
